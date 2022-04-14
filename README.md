@@ -1,5 +1,5 @@
 # RabbitMQ
-<h1>Producer and Consumer Sample for RabbitMQ Queue implementation</h1>
+<h2>Producer and Consumer Sample for RabbitMQ Queue implementation</h2>
 <br>
 To install dependencies and run the project, run the following command in each folder (Producer and Consumer)
 <br>
